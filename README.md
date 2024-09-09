@@ -59,12 +59,7 @@ Access the portal at http://127.0.0.1:5000 in your web browser.
 
 ## Usage
 
-- **Homepage:** Displays a list of all news articles.
-- **Add News:** Use the form to add a new news article, selecting a category.
-- **Category View:** View all news articles within a specific category.
-- **News Details:** View detailed information for a specific news article.
-- **Registration** Allows you to register on the portal.
-- **Login** Allows you to log into your account on the portal.
+
 
 ## Author
 Developed by [iwannafly69](https://github.com/1sten)
